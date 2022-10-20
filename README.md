@@ -7,3 +7,4 @@ Args:
 ```
 node rankings.js 2 1d ethereum top200_1d_ethereum.txt
 ```
+
